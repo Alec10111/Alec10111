@@ -6,3 +6,6 @@
 
 ## 📫 How to reach me: cafl.23w@gmail.com
 
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
