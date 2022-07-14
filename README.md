@@ -8,4 +8,5 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [First post: Welcome!](https://alec10111.com/posts/first-post-welcome/)
 <!-- BLOG-POST-LIST:END -->
