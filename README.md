@@ -6,7 +6,6 @@
 
 # 📫 How to reach me: cafl.23w@gmail.com
 
-# Blog posts
-<!-- BLOG-POST-LIST:START -->
-- [First post: Welcome!](https://alec10111.com/posts/first-post-welcome/)
-<!-- BLOG-POST-LIST:END -->
+
+- [Docker fundamentals](https://alec10111.github.io/posts/docker-introduction/)
+
